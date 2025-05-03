@@ -13,12 +13,12 @@
   {
     "sample_index": 1,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the basket of fruit in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the fruit basket in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000061315_000000061315_addition_1/000000061315.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000061315_000000061315_addition_1/000000061315_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000061315_000000061315_addition_1/000000061315.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000061315_000000061315_addition_1/000000061315_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -35,12 +35,12 @@
   {
     "sample_index": 3,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the basket of fresh fruit in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the modern stainless steel fridge in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000486543_000000486543_replacement_3/000000486543.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000486543_000000486543_replacement_3/000000486543_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000486543_000000486543_replacement_3/000000486543.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000486543_000000486543_replacement_3/000000486543_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -60,8 +60,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the lamppost in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000051025_000000051025_replacement_5/000000051025.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000051025_000000051025_replacement_5/000000051025_replacement.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000051025_000000051025_replacement_5/000000051025.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000051025_000000051025_replacement_5/000000051025_replacement.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -79,12 +79,12 @@
   {
     "sample_index": 7,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the sun arrangement in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the sunflowers in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000105114_000000105114_addition_7/000000105114.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000105114_000000105114_addition_7/000000105114_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000105114_000000105114_addition_7/000000105114.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000105114_000000105114_addition_7/000000105114_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -101,12 +101,12 @@
   {
     "sample_index": 9,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the coffee rack in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the bookshelf in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000130011_000000130011_replacement_9/000000130011.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000130011_000000130011_replacement_9/000000130011_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000130011_000000130011_replacement_9/000000130011.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000130011_000000130011_replacement_9/000000130011_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -123,12 +123,12 @@
   {
     "sample_index": 11,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the electric clock in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the blender in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000535145_000000535145_addition_11/000000535145.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000535145_000000535145_addition_11/000000535145_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000535145_000000535145_addition_11/000000535145.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000535145_000000535145_addition_11/000000535145_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -145,12 +145,12 @@
   {
     "sample_index": 13,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the bowl of fresh fruit in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the fruit bowl in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000283059_000000283059_addition_13/000000283059.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000283059_000000283059_addition_13/000000283059_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000283059_000000283059_addition_13/000000283059.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000283059_000000283059_addition_13/000000283059_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -167,13 +167,13 @@
   {
     "sample_index": 15,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the basket of flowers in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the flowers in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000022650_000000022650_addition_15/000000022650.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000022650_000000022650_addition_15/000000022650_addition.png",
-    "is_modified_correct": "yes",
-    "is_object_correct": "yes"
+    "original_image_path": "/data_sda/zzy/pic_anno/000000022650_000000022650_addition_15/000000022650.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000022650_000000022650_addition_15/000000022650_addition.png",
+    "is_modified_correct": "no",
+    "is_object_correct": "no"
   },
   {
     "sample_index": 16,
@@ -189,12 +189,12 @@
   {
     "sample_index": 17,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the bowl of fresh fruit in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the bowl of strawberries in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000294346_000000294346_addition_17/000000294346.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000294346_000000294346_addition_17/000000294346_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000294346_000000294346_addition_17/000000294346.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000294346_000000294346_addition_17/000000294346_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -214,8 +214,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the bunch of bananas in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000102353_000000102353_addition_19/000000102353.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000102353_000000102353_addition_19/000000102353_addition.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000102353_000000102353_addition_19/000000102353.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000102353_000000102353_addition_19/000000102353_addition.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -233,12 +233,12 @@
   {
     "sample_index": 21,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small potted plant in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the hanging plant in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000103863_000000103863_addition_21/000000103863.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000103863_000000103863_addition_21/000000103863_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000103863_000000103863_addition_21/000000103863.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000103863_000000103863_addition_21/000000103863_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -255,13 +255,13 @@
   {
     "sample_index": 23,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the vintage cat in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the cat in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000384302_000000384302_addition_23/000000384302.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000384302_000000384302_addition_23/000000384302_addition.png",
-    "is_modified_correct": "yes",
-    "is_object_correct": "yes"
+    "original_image_path": "/data_sda/zzy/pic_anno/000000384302_000000384302_addition_23/000000384302.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000384302_000000384302_addition_23/000000384302_addition.png",
+    "is_modified_correct": "no",
+    "is_object_correct": "no"
   },
   {
     "sample_index": 24,
@@ -277,12 +277,12 @@
   {
     "sample_index": 25,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the wood-burning stove in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the pizza oven in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000422161_000000422161_replacement_25/000000422161.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000422161_000000422161_replacement_25/000000422161_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000422161_000000422161_replacement_25/000000422161.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000422161_000000422161_replacement_25/000000422161_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -300,10 +300,10 @@
     "sample_index": 27,
     "ground_truth_label": "modified",
     "predicted_label": "modified",
-    "model_output": "the small sofa in the image has been modified.",
+    "model_output": "the digital mug in the image has been modified.",
     "ground_truth": "the coffee cup in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000438103_000000438103_addition_27/000000438103.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000438103_000000438103_addition_27/000000438103_addition.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000438103_000000438103_addition_27/000000438103.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000438103_000000438103_addition_27/000000438103_addition.png",
     "is_modified_correct": "yes",
     "is_object_correct": "no"
   },
@@ -321,12 +321,12 @@
   {
     "sample_index": 29,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the digital window in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the stack of books in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000040842_000000040842_addition_29/000000040842.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000040842_000000040842_addition_29/000000040842_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000040842_000000040842_addition_29/000000040842.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000040842_000000040842_addition_29/000000040842_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -343,12 +343,12 @@
   {
     "sample_index": 31,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the modern computerball in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the coffee mug in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000424485_000000424485_addition_31/000000424485.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000424485_000000424485_addition_31/000000424485_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000424485_000000424485_addition_31/000000424485.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000424485_000000424485_addition_31/000000424485_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -365,12 +365,12 @@
   {
     "sample_index": 33,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the wireless mug in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the cup of coffee in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000412289_000000412289_addition_33/000000412289.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000412289_000000412289_addition_33/000000412289_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000412289_000000412289_addition_33/000000412289.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000412289_000000412289_addition_33/000000412289_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -387,12 +387,12 @@
   {
     "sample_index": 35,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the glass of coffee in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the cup of tea in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000427666_000000427666_addition_35/000000427666.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000427666_000000427666_addition_35/000000427666_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000427666_000000427666_addition_35/000000427666.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000427666_000000427666_addition_35/000000427666_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -409,12 +409,12 @@
   {
     "sample_index": 37,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the bowl of cat in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the mug of tea in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000534972_000000534972_addition_37/000000534972.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000534972_000000534972_addition_37/000000534972_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000534972_000000534972_addition_37/000000534972.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000534972_000000534972_addition_37/000000534972_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -431,12 +431,12 @@
   {
     "sample_index": 39,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the ceramic cup in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the steaming cup of coffee in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000118726_000000118726_addition_39/000000118726.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000118726_000000118726_addition_39/000000118726_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000118726_000000118726_addition_39/000000118726.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000118726_000000118726_addition_39/000000118726_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -453,12 +453,12 @@
   {
     "sample_index": 41,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the modern lamp in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the desk lamp in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000223241_000000223241_addition_41/000000223241.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000223241_000000223241_addition_41/000000223241_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000223241_000000223241_addition_41/000000223241.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000223241_000000223241_addition_41/000000223241_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -478,8 +478,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the smartphone in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000378644_000000378644_addition_43/000000378644.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000378644_000000378644_addition_43/000000378644_addition.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000378644_000000378644_addition_43/000000378644.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000378644_000000378644_addition_43/000000378644_addition.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -497,12 +497,12 @@
   {
     "sample_index": 45,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the large monitor in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the projector screen in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000466818_000000466818_addition_45/000000466818.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000466818_000000466818_addition_45/000000466818_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000466818_000000466818_addition_45/000000466818.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000466818_000000466818_addition_45/000000466818_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -522,8 +522,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the desktop computers in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000126135_000000126135_replacement_47/000000126135.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000126135_000000126135_replacement_47/000000126135_replacement.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000126135_000000126135_replacement_47/000000126135.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000126135_000000126135_replacement_47/000000126135_replacement.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -541,13 +541,13 @@
   {
     "sample_index": 49,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small potted plant in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the plant in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000149150_000000149150_addition_49/000000149150.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000149150_000000149150_addition_49/000000149150_addition.png",
-    "is_modified_correct": "yes",
-    "is_object_correct": "yes"
+    "original_image_path": "/data_sda/zzy/pic_anno/000000149150_000000149150_addition_49/000000149150.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000149150_000000149150_addition_49/000000149150_addition.png",
+    "is_modified_correct": "no",
+    "is_object_correct": "no"
   },
   {
     "sample_index": 50,
@@ -563,13 +563,13 @@
   {
     "sample_index": 51,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the toy car in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the toy car in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000431715_000000431715_addition_51/000000431715.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000431715_000000431715_addition_51/000000431715_addition.png",
-    "is_modified_correct": "yes",
-    "is_object_correct": "yes"
+    "original_image_path": "/data_sda/zzy/pic_anno/000000431715_000000431715_addition_51/000000431715.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000431715_000000431715_addition_51/000000431715_addition.png",
+    "is_modified_correct": "no",
+    "is_object_correct": "no"
   },
   {
     "sample_index": 52,
@@ -585,12 +585,12 @@
   {
     "sample_index": 53,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the cup of coffee in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the steaming cup of tea in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000053864_000000053864_addition_53/000000053864.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000053864_000000053864_addition_53/000000053864_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000053864_000000053864_addition_53/000000053864.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000053864_000000053864_addition_53/000000053864_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -607,12 +607,12 @@
   {
     "sample_index": 55,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the snow in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the snowman in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000512290_000000512290_addition_55/000000512290.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000512290_000000512290_addition_55/000000512290_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000512290_000000512290_addition_55/000000512290.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000512290_000000512290_addition_55/000000512290_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -629,12 +629,12 @@
   {
     "sample_index": 57,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the sled in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the flock of birds in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000096638_000000096638_addition_57/000000096638.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000096638_000000096638_addition_57/000000096638_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000096638_000000096638_addition_57/000000096638.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000096638_000000096638_addition_57/000000096638_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -651,12 +651,12 @@
   {
     "sample_index": 59,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the camera in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the photographer in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000258043_000000258043_addition_59/000000258043.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000258043_000000258043_addition_59/000000258043_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000258043_000000258043_addition_59/000000258043.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000258043_000000258043_addition_59/000000258043_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -673,12 +673,12 @@
   {
     "sample_index": 61,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the ski skates in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the ski lift in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000302405_000000302405_addition_61/000000302405.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000302405_000000302405_addition_61/000000302405_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000302405_000000302405_addition_61/000000302405.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000302405_000000302405_addition_61/000000302405_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -695,12 +695,12 @@
   {
     "sample_index": 63,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the mountain lift in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the group of skiers in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000222758_000000222758_addition_63/000000222758.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000222758_000000222758_addition_63/000000222758_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000222758_000000222758_addition_63/000000222758.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000222758_000000222758_addition_63/000000222758_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -720,8 +720,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the snowboarder in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000014359_000000014359_addition_65/000000014359.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000014359_000000014359_addition_65/000000014359_addition.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000014359_000000014359_addition_65/000000014359.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000014359_000000014359_addition_65/000000014359_addition.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -739,12 +739,12 @@
   {
     "sample_index": 67,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the flags in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the kite in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000039988_000000039988_addition_67/000000039988.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000039988_000000039988_addition_67/000000039988_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000039988_000000039988_addition_67/000000039988.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000039988_000000039988_addition_67/000000039988_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -761,12 +761,12 @@
   {
     "sample_index": 69,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the colorful flag in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the colorful kite in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000168845_000000168845_addition_69/000000168845.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000168845_000000168845_addition_69/000000168845_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000168845_000000168845_addition_69/000000168845.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000168845_000000168845_addition_69/000000168845_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -783,12 +783,12 @@
   {
     "sample_index": 71,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the snowboarding in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the skier in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000550306_000000550306_addition_71/000000550306.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000550306_000000550306_addition_71/000000550306_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000550306_000000550306_addition_71/000000550306.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000550306_000000550306_addition_71/000000550306_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -805,13 +805,13 @@
   {
     "sample_index": 73,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the snow drone in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the drone in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000069411_000000069411_addition_73/000000069411.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000069411_000000069411_addition_73/000000069411_addition.png",
-    "is_modified_correct": "yes",
-    "is_object_correct": "yes"
+    "original_image_path": "/data_sda/zzy/pic_anno/000000069411_000000069411_addition_73/000000069411.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000069411_000000069411_addition_73/000000069411_addition.png",
+    "is_modified_correct": "no",
+    "is_object_correct": "no"
   },
   {
     "sample_index": 74,
@@ -827,12 +827,12 @@
   {
     "sample_index": 75,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the snow skates in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the child skiing in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000211520_000000211520_addition_75/000000211520.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000211520_000000211520_addition_75/000000211520_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000211520_000000211520_addition_75/000000211520.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000211520_000000211520_addition_75/000000211520_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -852,8 +852,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the snowy mountain in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000363826_000000363826_addition_77/000000363826.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000363826_000000363826_addition_77/000000363826_addition.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000363826_000000363826_addition_77/000000363826.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000363826_000000363826_addition_77/000000363826_addition.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -871,13 +871,13 @@
   {
     "sample_index": 79,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the helicopters in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the helicopter in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000041854_000000041854_addition_79/000000041854.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000041854_000000041854_addition_79/000000041854_addition.png",
-    "is_modified_correct": "yes",
-    "is_object_correct": "yes"
+    "original_image_path": "/data_sda/zzy/pic_anno/000000041854_000000041854_addition_79/000000041854.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000041854_000000041854_addition_79/000000041854_addition.png",
+    "is_modified_correct": "no",
+    "is_object_correct": "no"
   },
   {
     "sample_index": 80,
@@ -893,12 +893,12 @@
   {
     "sample_index": 81,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the bird in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the flying kite in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000390704_000000390704_addition_81/000000390704.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000390704_000000390704_addition_81/000000390704_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000390704_000000390704_addition_81/000000390704.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000390704_000000390704_addition_81/000000390704_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -915,12 +915,12 @@
   {
     "sample_index": 83,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the colorful paddle in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the surfboards in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000174103_000000174103_replacement_83/000000174103.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000174103_000000174103_replacement_83/000000174103_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000174103_000000174103_replacement_83/000000174103.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000174103_000000174103_replacement_83/000000174103_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -937,13 +937,13 @@
   {
     "sample_index": 85,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the soaring eagle in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the eagle in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000480026_000000480026_addition_85/000000480026.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000480026_000000480026_addition_85/000000480026_addition.png",
-    "is_modified_correct": "yes",
-    "is_object_correct": "yes"
+    "original_image_path": "/data_sda/zzy/pic_anno/000000480026_000000480026_addition_85/000000480026.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000480026_000000480026_addition_85/000000480026_addition.png",
+    "is_modified_correct": "no",
+    "is_object_correct": "no"
   },
   {
     "sample_index": 86,
@@ -959,12 +959,12 @@
   {
     "sample_index": 87,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the snow dog in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the small dog in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000554347_000000554347_addition_87/000000554347.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000554347_000000554347_addition_87/000000554347_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000554347_000000554347_addition_87/000000554347.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000554347_000000554347_addition_87/000000554347_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -981,12 +981,12 @@
   {
     "sample_index": 89,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small tape in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the vintage radio in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000136458_000000136458_replacement_89/000000136458.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000136458_000000136458_replacement_89/000000136458_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000136458_000000136458_replacement_89/000000136458.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000136458_000000136458_replacement_89/000000136458_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1003,12 +1003,12 @@
   {
     "sample_index": 91,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the modern wall art in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the painting in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000252105_000000252105_replacement_91/000000252105.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000252105_000000252105_replacement_91/000000252105_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000252105_000000252105_replacement_91/000000252105.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000252105_000000252105_replacement_91/000000252105_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1026,10 +1026,10 @@
     "sample_index": 93,
     "ground_truth_label": "modified",
     "predicted_label": "modified",
-    "model_output": "the gold fish in the image has been modified.",
+    "model_output": "the goldfish bowl in the image has been modified.",
     "ground_truth": "the aquarium in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000109106_000000109106_replacement_93/000000109106.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000109106_000000109106_replacement_93/000000109106_replacement.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000109106_000000109106_replacement_93/000000109106.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000109106_000000109106_replacement_93/000000109106_replacement.png",
     "is_modified_correct": "yes",
     "is_object_correct": "no"
   },
@@ -1047,12 +1047,12 @@
   {
     "sample_index": 95,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the vintage desk in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the framed painting in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000082790_000000082790_replacement_95/000000082790.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000082790_000000082790_replacement_95/000000082790_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000082790_000000082790_replacement_95/000000082790.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000082790_000000082790_replacement_95/000000082790_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1069,12 +1069,12 @@
   {
     "sample_index": 97,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the cartoon cake in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the tv in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000297370_000000297370_addition_97/000000297370.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000297370_000000297370_addition_97/000000297370_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000297370_000000297370_addition_97/000000297370.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000297370_000000297370_addition_97/000000297370_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1091,12 +1091,12 @@
   {
     "sample_index": 99,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small potted plant in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the indoor plant in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000351489_000000351489_addition_99/000000351489.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000351489_000000351489_addition_99/000000351489_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000351489_000000351489_addition_99/000000351489.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000351489_000000351489_addition_99/000000351489_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1116,8 +1116,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the coffee maker in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000542509_000000542509_addition_101/000000542509.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000542509_000000542509_addition_101/000000542509_addition.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000542509_000000542509_addition_101/000000542509.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000542509_000000542509_addition_101/000000542509_addition.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -1135,12 +1135,12 @@
   {
     "sample_index": 103,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the table plant in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the small plant in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000197236_000000197236_addition_103/000000197236.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000197236_000000197236_addition_103/000000197236_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000197236_000000197236_addition_103/000000197236.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000197236_000000197236_addition_103/000000197236_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1157,13 +1157,13 @@
   {
     "sample_index": 105,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the large dog in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the dog in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000169937_000000169937_addition_105/000000169937.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000169937_000000169937_addition_105/000000169937_addition.png",
-    "is_modified_correct": "yes",
-    "is_object_correct": "yes"
+    "original_image_path": "/data_sda/zzy/pic_anno/000000169937_000000169937_addition_105/000000169937.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000169937_000000169937_addition_105/000000169937_addition.png",
+    "is_modified_correct": "no",
+    "is_object_correct": "no"
   },
   {
     "sample_index": 106,
@@ -1179,12 +1179,12 @@
   {
     "sample_index": 107,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the television control in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the small table with magazines in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000060624_000000060624_addition_107/000000060624.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000060624_000000060624_addition_107/000000060624_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000060624_000000060624_addition_107/000000060624.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000060624_000000060624_addition_107/000000060624_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1201,12 +1201,12 @@
   {
     "sample_index": 109,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the television in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the landscape painting in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000031729_000000031729_replacement_109/000000031729.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000031729_000000031729_replacement_109/000000031729_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000031729_000000031729_replacement_109/000000031729.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000031729_000000031729_replacement_109/000000031729_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1226,8 +1226,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the fireplace in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000158384_000000158384_replacement_111/000000158384.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000158384_000000158384_replacement_111/000000158384_replacement.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000158384_000000158384_replacement_111/000000158384.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000158384_000000158384_replacement_111/000000158384_replacement.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -1245,12 +1245,12 @@
   {
     "sample_index": 113,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the decorative wall in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the modern flat-screen television in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000241003_000000241003_addition_113/000000241003.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000241003_000000241003_addition_113/000000241003_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000241003_000000241003_addition_113/000000241003.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000241003_000000241003_addition_113/000000241003_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1267,12 +1267,12 @@
   {
     "sample_index": 115,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the digital timer in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the digital clock in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000516248_000000516248_addition_115/000000516248.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000516248_000000516248_addition_115/000000516248_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000516248_000000516248_addition_115/000000516248.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000516248_000000516248_addition_115/000000516248_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1289,34 +1289,34 @@
   {
     "sample_index": 117,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small potted plant in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the small indoor plant in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000280242_000000280242_addition_117/000000280242.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000280242_000000280242_addition_117/000000280242_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000280242_000000280242_addition_117/000000280242.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000280242_000000280242_addition_117/000000280242_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
     "sample_index": 118,
     "ground_truth_label": "original",
-    "predicted_label": "modified",
-    "model_output": "the small toy in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "nothing has been modified in this image.",
     "original_image_path": "/fdata/FragFake/coco_train_sample_3_25/tv/000000293353.jpg",
     "modified_image_path": null,
-    "is_modified_correct": "no",
+    "is_modified_correct": "yes",
     "is_object_correct": "no"
   },
   {
     "sample_index": 119,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small lamp in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the table lamp in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000293353_000000293353_addition_119/000000293353.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000293353_000000293353_addition_119/000000293353_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000293353_000000293353_addition_119/000000293353.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000293353_000000293353_addition_119/000000293353_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1333,12 +1333,12 @@
   {
     "sample_index": 121,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the stack of notebooks in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the stack of paperwork in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000394600_000000394600_addition_121/000000394600.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000394600_000000394600_addition_121/000000394600_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000394600_000000394600_addition_121/000000394600.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000394600_000000394600_addition_121/000000394600_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1355,13 +1355,13 @@
   {
     "sample_index": 123,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the colorful bird in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the colorful bird in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000374984_000000374984_addition_123/000000374984.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000374984_000000374984_addition_123/000000374984_addition.png",
-    "is_modified_correct": "yes",
-    "is_object_correct": "yes"
+    "original_image_path": "/data_sda/zzy/pic_anno/000000374984_000000374984_addition_123/000000374984.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000374984_000000374984_addition_123/000000374984_addition.png",
+    "is_modified_correct": "no",
+    "is_object_correct": "no"
   },
   {
     "sample_index": 124,
@@ -1377,12 +1377,12 @@
   {
     "sample_index": 125,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small fountain in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the flowerpot in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000171845_000000171845_replacement_125/000000171845.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000171845_000000171845_replacement_125/000000171845_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000171845_000000171845_replacement_125/000000171845.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000171845_000000171845_replacement_125/000000171845_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1399,12 +1399,12 @@
   {
     "sample_index": 127,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the cartoon duck in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the rubber duck in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000119418_000000119418_addition_127/000000119418.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000119418_000000119418_addition_127/000000119418_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000119418_000000119418_addition_127/000000119418.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000119418_000000119418_addition_127/000000119418_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1421,12 +1421,12 @@
   {
     "sample_index": 129,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small plant plant in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the decorative plant stand in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000112525_000000112525_addition_129/000000112525.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000112525_000000112525_addition_129/000000112525_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000112525_000000112525_addition_129/000000112525.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000112525_000000112525_addition_129/000000112525_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1446,8 +1446,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the stack of colorful towels in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000000714_000000000714_addition_131/000000000714.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000000714_000000000714_addition_131/000000000714_addition.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000000714_000000000714_addition_131/000000000714.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000000714_000000000714_addition_131/000000000714_addition.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -1465,12 +1465,12 @@
   {
     "sample_index": 133,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small potted plant in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the decorative plant in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000345401_000000345401_addition_133/000000345401.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000345401_000000345401_addition_133/000000345401_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000345401_000000345401_addition_133/000000345401.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000345401_000000345401_addition_133/000000345401_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1487,12 +1487,12 @@
   {
     "sample_index": 135,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the colorful wash basin in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the shower curtain in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000460944_000000460944_addition_135/000000460944.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000460944_000000460944_addition_135/000000460944_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000460944_000000460944_addition_135/000000460944.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000460944_000000460944_addition_135/000000460944_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1509,12 +1509,12 @@
   {
     "sample_index": 137,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small potted plant in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the potted indoor tree in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000502808_000000502808_replacement_137/000000502808.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000502808_000000502808_replacement_137/000000502808_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000502808_000000502808_replacement_137/000000502808.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000502808_000000502808_replacement_137/000000502808_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1531,12 +1531,12 @@
   {
     "sample_index": 139,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small plant plant in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the potted cactus in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000464602_000000464602_addition_139/000000464602.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000464602_000000464602_addition_139/000000464602_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000464602_000000464602_addition_139/000000464602.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000464602_000000464602_addition_139/000000464602_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1553,12 +1553,12 @@
   {
     "sample_index": 141,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the colorful hand towel in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the bath mat in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000252699_000000252699_addition_141/000000252699.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000252699_000000252699_addition_141/000000252699_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000252699_000000252699_addition_141/000000252699.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000252699_000000252699_addition_141/000000252699_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1578,8 +1578,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the green bath mat in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000315193_000000315193_addition_143/000000315193.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000315193_000000315193_addition_143/000000315193_addition.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000315193_000000315193_addition_143/000000315193.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000315193_000000315193_addition_143/000000315193_addition.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -1600,8 +1600,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the towel rack in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000245996_000000245996_addition_145/000000245996.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000245996_000000245996_addition_145/000000245996_addition.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000245996_000000245996_addition_145/000000245996.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000245996_000000245996_addition_145/000000245996_addition.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -1622,8 +1622,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the towels in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000071769_000000071769_addition_147/000000071769.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000071769_000000071769_addition_147/000000071769_addition.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000071769_000000071769_addition_147/000000071769.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000071769_000000071769_addition_147/000000071769_addition.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -1641,12 +1641,12 @@
   {
     "sample_index": 149,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the hand washin in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the toilet paper roll in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000520197_000000520197_addition_149/000000520197.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000520197_000000520197_addition_149/000000520197_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000520197_000000520197_addition_149/000000520197.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000520197_000000520197_addition_149/000000520197_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1663,12 +1663,12 @@
   {
     "sample_index": 151,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small black washin in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the washing machine in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000375194_000000375194_replacement_151/000000375194.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000375194_000000375194_replacement_151/000000375194_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000375194_000000375194_replacement_151/000000375194.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000375194_000000375194_replacement_151/000000375194_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1685,12 +1685,12 @@
   {
     "sample_index": 153,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the basket of flowers in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the vase of flowers in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000157288_000000157288_addition_153/000000157288.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000157288_000000157288_addition_153/000000157288_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000157288_000000157288_addition_153/000000157288.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000157288_000000157288_addition_153/000000157288_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1707,12 +1707,12 @@
   {
     "sample_index": 155,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the bowl of red fruit in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the bowl of mixed fruit in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000176746_000000176746_addition_155/000000176746.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000176746_000000176746_addition_155/000000176746_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000176746_000000176746_addition_155/000000176746.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000176746_000000176746_addition_155/000000176746_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1732,8 +1732,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the bowl of fruit in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000489573_000000489573_addition_157/000000489573.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000489573_000000489573_addition_157/000000489573_addition.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000489573_000000489573_addition_157/000000489573.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000489573_000000489573_addition_157/000000489573_addition.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -1751,12 +1751,12 @@
   {
     "sample_index": 159,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the stack of flowers in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the glass vase with fresh hydrangeas in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000197749_000000197749_addition_159/000000197749.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000197749_000000197749_addition_159/000000197749_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000197749_000000197749_addition_159/000000197749.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000197749_000000197749_addition_159/000000197749_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1773,12 +1773,12 @@
   {
     "sample_index": 161,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the vintage refrigerator in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the work desk in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000536972_000000536972_replacement_161/000000536972.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000536972_000000536972_replacement_161/000000536972_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000536972_000000536972_replacement_161/000000536972.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000536972_000000536972_replacement_161/000000536972_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1795,13 +1795,13 @@
   {
     "sample_index": 163,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the green umbrella in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the umbrella in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000248308_000000248308_addition_163/000000248308.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000248308_000000248308_addition_163/000000248308_addition.png",
-    "is_modified_correct": "yes",
-    "is_object_correct": "yes"
+    "original_image_path": "/data_sda/zzy/pic_anno/000000248308_000000248308_addition_163/000000248308.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000248308_000000248308_addition_163/000000248308_addition.png",
+    "is_modified_correct": "no",
+    "is_object_correct": "no"
   },
   {
     "sample_index": 164,
@@ -1817,12 +1817,12 @@
   {
     "sample_index": 165,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the vase of flowers in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the small vase with fresh flowers in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000494329_000000494329_addition_165/000000494329.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000494329_000000494329_addition_165/000000494329_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000494329_000000494329_addition_165/000000494329.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000494329_000000494329_addition_165/000000494329_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1839,12 +1839,12 @@
   {
     "sample_index": 167,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the flower with flowers in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the bouquet of daisies in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000545381_000000545381_addition_167/000000545381.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000545381_000000545381_addition_167/000000545381_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000545381_000000545381_addition_167/000000545381.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000545381_000000545381_addition_167/000000545381_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1861,12 +1861,12 @@
   {
     "sample_index": 169,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the bouquet of assorted flowers in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the centerpiece in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000467145_000000467145_addition_169/000000467145.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000467145_000000467145_addition_169/000000467145_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000467145_000000467145_addition_169/000000467145.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000467145_000000467145_addition_169/000000467145_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1883,12 +1883,12 @@
   {
     "sample_index": 171,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the plate of fruit in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the plate of assorted fruits in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000273184_000000273184_addition_171/000000273184.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000273184_000000273184_addition_171/000000273184_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000273184_000000273184_addition_171/000000273184.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000273184_000000273184_addition_171/000000273184_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1905,12 +1905,12 @@
   {
     "sample_index": 173,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the balloon in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the balloons in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000058801_000000058801_addition_173/000000058801.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000058801_000000058801_addition_173/000000058801_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000058801_000000058801_addition_173/000000058801.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000058801_000000058801_addition_173/000000058801_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1927,12 +1927,12 @@
   {
     "sample_index": 175,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the cup of tea in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the marble table in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000479067_000000479067_replacement_175/000000479067.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000479067_000000479067_replacement_175/000000479067_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000479067_000000479067_replacement_175/000000479067.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000479067_000000479067_replacement_175/000000479067_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1949,12 +1949,12 @@
   {
     "sample_index": 177,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the decorative fruit in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the bowl of fresh fruits in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000242051_000000242051_addition_177/000000242051.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000242051_000000242051_addition_177/000000242051_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000242051_000000242051_addition_177/000000242051.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000242051_000000242051_addition_177/000000242051_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -1974,8 +1974,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the lit candle in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000119181_000000119181_addition_179/000000119181.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000119181_000000119181_addition_179/000000119181_addition.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000119181_000000119181_addition_179/000000119181.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000119181_000000119181_addition_179/000000119181_addition.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   },
@@ -1993,12 +1993,12 @@
   {
     "sample_index": 181,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small flowers in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the vase with fresh flowers in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000411717_000000411717_addition_181/000000411717.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000411717_000000411717_addition_181/000000411717_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000411717_000000411717_addition_181/000000411717.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000411717_000000411717_addition_181/000000411717_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -2015,12 +2015,12 @@
   {
     "sample_index": 183,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the soccer ball in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the decorative sculpture in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000018233_000000018233_addition_183/000000018233.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000018233_000000018233_addition_183/000000018233_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000018233_000000018233_addition_183/000000018233.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000018233_000000018233_addition_183/000000018233_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -2037,12 +2037,12 @@
   {
     "sample_index": 185,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the bowl of soup in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the decorative centerpiece in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000122147_000000122147_addition_185/000000122147.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000122147_000000122147_addition_185/000000122147_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000122147_000000122147_addition_185/000000122147.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000122147_000000122147_addition_185/000000122147_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -2059,12 +2059,12 @@
   {
     "sample_index": 187,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the camera bag in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the vintage camera in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000458673_000000458673_replacement_187/000000458673.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000458673_000000458673_replacement_187/000000458673_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000458673_000000458673_replacement_187/000000458673.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000458673_000000458673_replacement_187/000000458673_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -2081,13 +2081,13 @@
   {
     "sample_index": 189,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the beach ball in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the beach ball in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000437981_000000437981_addition_189/000000437981.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000437981_000000437981_addition_189/000000437981_addition.png",
-    "is_modified_correct": "yes",
-    "is_object_correct": "yes"
+    "original_image_path": "/data_sda/zzy/pic_anno/000000437981_000000437981_addition_189/000000437981.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000437981_000000437981_addition_189/000000437981_addition.png",
+    "is_modified_correct": "no",
+    "is_object_correct": "no"
   },
   {
     "sample_index": 190,
@@ -2103,12 +2103,12 @@
   {
     "sample_index": 191,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the small hand bag in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the red handbag in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000232219_000000232219_addition_191/000000232219.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000232219_000000232219_addition_191/000000232219_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000232219_000000232219_addition_191/000000232219.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000232219_000000232219_addition_191/000000232219_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -2125,12 +2125,12 @@
   {
     "sample_index": 193,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the musical train in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the musical instrument case in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000276596_000000276596_addition_193/000000276596.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000276596_000000276596_addition_193/000000276596_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000276596_000000276596_addition_193/000000276596.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000276596_000000276596_addition_193/000000276596_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -2147,12 +2147,12 @@
   {
     "sample_index": 195,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the rain bag in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the backpack in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000457868_000000457868_replacement_195/000000457868.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000457868_000000457868_replacement_195/000000457868_replacement.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000457868_000000457868_replacement_195/000000457868.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000457868_000000457868_replacement_195/000000457868_replacement.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -2169,12 +2169,12 @@
   {
     "sample_index": 197,
     "ground_truth_label": "modified",
-    "predicted_label": "modified",
-    "model_output": "the glass of milk in the image has been modified.",
+    "predicted_label": "original",
+    "model_output": "nothing has been modified in this image.",
     "ground_truth": "the handbag in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000300876_000000300876_addition_197/000000300876.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000300876_000000300876_addition_197/000000300876_addition.png",
-    "is_modified_correct": "yes",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000300876_000000300876_addition_197/000000300876.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000300876_000000300876_addition_197/000000300876_addition.png",
+    "is_modified_correct": "no",
     "is_object_correct": "no"
   },
   {
@@ -2194,8 +2194,8 @@
     "predicted_label": "original",
     "model_output": "nothing has been modified in this image.",
     "ground_truth": "the satchel in the image has been modified.",
-    "original_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000190360_000000190360_replacement_199/000000190360.jpg",
-    "modified_image_path": "https://raw.githubusercontent.com/zzy0987/pic_anno2/main/000000190360_000000190360_replacement_199/000000190360_replacement.png",
+    "original_image_path": "/data_sda/zzy/pic_anno/000000190360_000000190360_replacement_199/000000190360.jpg",
+    "modified_image_path": "/data_sda/zzy/pic_anno/000000190360_000000190360_replacement_199/000000190360_replacement.png",
     "is_modified_correct": "no",
     "is_object_correct": "no"
   }
