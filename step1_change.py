@@ -75,9 +75,9 @@ def process_data(json_path, output_json_path, target_root):
 
 if __name__ == "__main__":
     # 假设原始 JSON 路径
-    json_file = "/fdata/FragFake/finished_file/dataset/gemini/result/gemini_easy_gemma3_4b_4000.json"
+    json_file = "/fdata/FragFake/finished_file/dataset/GOT/result/GOT_easy_qwen2_original_vl_coco.json"
     # 输出更新后 JSON 的路径
-    output_json_file = "zzy_anno_gemini_easy_gemma3_4b_4000.json"
+    output_json_file = "zzy_anno_GOT_easy_qwen2_original_vl_coco_511.json"
     # 搬运图片的目标根目录
     target_root_folder = "/data_sda/zzy/pic_anno"
 
