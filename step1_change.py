@@ -21,13 +21,15 @@ def process_data(json_path, output_json_path, target_root):
         
         # 1) 计算二分类标签
         # ground_truth_label: 0 表示 "nothing"，1 表示非 "nothing"
+        # import pdb
+        # pdb.set_trace()
         if ground_truth == "nothing has been modified in this image.":
             true_label = 0
         else:
             true_label = 1
         
         # pred_label: 同理
-        if model_output == "nothing has been modified in this image.":
+        if model_output == "nothing has been modified in this image." or "nothing" in model_output:
             pred_label = 0
         else:
             pred_label = 1
@@ -75,9 +77,9 @@ def process_data(json_path, output_json_path, target_root):
 
 if __name__ == "__main__":
     # 假设原始 JSON 路径
-    json_file = "/fdata/FragFake/finished_file/dataset/GOT/result/GOT_easy_qwen2_original_vl_coco.json"
+    json_file = "/fdata/FragFake/finished_file/dataset/gemini/result/gemini_easy_gemma3_4b_4000.json"
     # 输出更新后 JSON 的路径
-    output_json_file = "zzy_anno_GOT_easy_qwen2_original_vl_coco_511.json"
+    output_json_file = "zzy_anno_gemini_easy_gemma3_4b_4000_512.json"
     # 搬运图片的目标根目录
     target_root_folder = "/data_sda/zzy/pic_anno"
 
