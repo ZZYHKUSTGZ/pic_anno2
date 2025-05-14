@@ -77,9 +77,9 @@ def process_data(json_path, output_json_path, target_root):
 
 if __name__ == "__main__":
     # 假设原始 JSON 路径
-    json_file = "/fdata/FragFake/finished_file/dataset/UltraEdit/result/qwen2_5_vl_UltraEdit_object_addition_transfer_to_object_addition.json"
+    json_file = "/fdata/FragFake/finished_file/dataset/UltraEdit/result/qwen2_5_vl_UltraEdit_object_replacement_transfer_to_object_addition.json"
     # 输出更新后 JSON 的路径
-    output_json_file = "zzy_anno_qwen2_5_vl_UltraEdit_object_addition_transfer_to_object_addition.json"
+    output_json_file = "zzy_anno_qwen2_5_vl_UltraEdit_object_replacement_transfer_to_object_addition.json"
     # 搬运图片的目标根目录
     target_root_folder = "/data_sda/zzy/pic_anno"
 
