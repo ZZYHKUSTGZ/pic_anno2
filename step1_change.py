@@ -79,7 +79,7 @@ if __name__ == "__main__":
     # 假设原始 JSON 路径
     json_file = "/fdata/FragFake/finished_file/dataset/ADE20K/gemini/easy/result/gemini_ADE20K_llava1_5_easy.json"
     # 输出更新后 JSON 的路径
-    output_json_file = "zzy_anno_gemini_ADE20K_llava1_5_easy.json"
+    output_json_file = "zzy_anno_gemini_ADE20K_llava1_5_easy_2.json"
     # 搬运图片的目标根目录
     target_root_folder = "/data_sda/zzy/pic_anno"
 
